@@ -20,6 +20,6 @@ Yifan Wang (YF Wang), ORCID ID: 0000-0002-6541-7435
 
 ---
 
-## 2. **[supplementary.R]([https://github.com/YFWang-YvH/circadian_entrainment_of_Nasonia_by_antagonistic_interactions_of_multiple_spectral_inputs/blob/main/gam3dplot.m](https://github.com/YFWang-YvH/circadian_entrainment_to_red_light_zeitgebers_and_action_spectrum_for_entrainment_in_Nasonia/blob/main/supplementary.R))**
+## 2. **[supplementary.R](https://github.com/YFWang-YvH/circadian_entrainment_to_red_light_zeitgebers_and_action_spectrum_for_entrainment_in_Nasonia/blob/main/supplementary.R)**
 
 1. Additional visualization of periodograms, centre of gravity plots, and actograms as supplementary data to the manuscript
