@@ -8,6 +8,7 @@ This repository contains scripts used to analyze the behavioural data, as public
 In this project, we examed the effect of wavelength and T-cycle on entrainment and analyzed the circadian action spectrum of entrainment using generalized linear model and dose response analysis. We characterized the strength of red light as a potential Zeitgeber and established an action spectrum for light entrainment by light-dark cycles. 
 
 Author:
+
 Yifan Wang (YF Wang), ORCID ID: 0000-0002-6541-7435
 
 ## 1. **[lightentrainmentmanuscript.R](https://github.com/YFWang-YvH/circadian_entrainment_to_red_light_zeitgebers_and_action_spectrum_for_entrainment_in_Nasonia/blob/main/lightentrainmentmanuscript.R)**
